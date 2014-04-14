@@ -2,9 +2,6 @@
 
 namespace libc4group;
 
-require_once('C4Group.php');
-require_once('C4Scenario.php');
-
 /**
  * Class C4GroupFactory
  * @package libc4group
