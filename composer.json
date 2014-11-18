@@ -1,0 +1,24 @@
+{
+  "name": "ckanibal/libc4group",
+  "description": "Library for reading/writing Clonk(tm) files",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "keywords": [
+    "clonk",
+    "c4group"
+  ],
+  "authors": [
+    {
+      "name": "ckanibal",
+      "email": "frustrum@pictor.uberspace.de",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Libc4group": "src/"
+    }
+  }
+}

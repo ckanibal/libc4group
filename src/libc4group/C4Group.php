@@ -2,10 +2,6 @@
 
 namespace libc4group;
 
-require_once('Data.php');
-require_once('C4GroupEntry.php');
-require_once('C4GroupFactory.php');
-
 /**
  * Class C4Group
  * @package libc4group
